@@ -6,4 +6,5 @@ public class Student {
   private int age;    
   private int fenshu;
   private  String charId;
+  private String pp;
 }
